@@ -1,2 +1,1 @@
 # sollve.github.io
-This is a website for a project named SOLLVE, which is a project to provide enhancements for OpenMP on Exascale supercomputers and which is part of the United States Department of Energy's Exascale Computing Project. The website's purpose is to provide a gathering of information of the SOLLVE project from different institutions working on the project, e.g., information from their webpages on this project, and to provide information on upcoming and past ECP OpenMP hackathons.
