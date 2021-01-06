@@ -1,1 +1,36 @@
-theme: jekyll-theme-minimal
+title: ECP SOLLVE
+description: >- # 
+  SOLLVE: Scaling OpenMP With LLVm for Exascale Performance and Portability
+baseurl: ""
+url: "https://sollve.github.io"
+github_username:  SOLLVE
+repository: sollve/llvm
+
+# Build settings
+markdown: kramdown
+theme: minima
+show_excerpts: true
+
+
+plugins:
+ # Automatically added by GitHub pages, as by https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages-and-jekyll
+ - jekyll-default-layout
+ - jekyll-optional-front-matter
+ - jekyll-titles-from-headings
+ - jekyll-github-metadata
+ - jekyll-relative-links
+ 
+ # Additional plugins; supported plugins: https://pages.github.com/versions/
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-avatar
+
+titles_from_headings:
+  enabled:     false
+
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      excerpt_separator: "<!--more-->"
