@@ -84,6 +84,13 @@ Michael Kruse, Hal Finkel.
 In: OpenMP: Conquering the Full Hardware Spectrum -- 15th International Workshop on OpenMP (IWOMP 2019. September 11-13. Auckland, New Zealand). 
 Lecture Notes in Computer Science. Volume 11718. Springer. 2019.
 
+T. R. Scogland, D. Sunderland, S. L. Olivier, D. S. Hollman, N. Evans, and B. R. de Supinski.
+_Making OpenMP ready for c++ executors_.
+In International Workshop on OpenMP, auckland, sep 2019.
+
+Y. Yan, A. Wang, C. Liao, T. R. Scogland, and B. R. de Supinski. 
+_Extending OpenMP metadirective semantics for runtime adaptation_.
+In International Workshop on OpenMP, auckland, sep 2019.
 
 ## 2018
 
@@ -98,6 +105,9 @@ In: Evolving OpenMP for Evolving Architectures -- 14th International Workshop on
 Lecture Notes in Computer Science. Volume 11128. Springer. 2018.
 [Preprint](https://arxiv.org/abs/1805.03374)
 
+I. Bartolacci, M. M. Strout, B. R. de Supinski, T. R. W. Scogland, E. C. Davis, and C. Olschanowsky.
+_Extending OpenMP to facilitate loop optimization_.
+In International Workshop on OpenMP, 2018.
 
 ## 2017
 
@@ -117,5 +127,7 @@ _Developing an OpenMP Offloading Runtime for UVM-Capable GPUs_.
 OpenMPCon'17.
 [Video](https://youtu.be/LS9ZvFtQQ4Y)/[Slides](https://openmpcon.org/wp-content/uploads/openmpcon2017/Day2-Session4-Pereira.pdf)
 
-
+T. R. W. Scogland, C. Earl, and B. R. de Supinski. 
+_Custom data mapping for composable data management_.
+In International Workshop on OpenMP, 2017.
 
