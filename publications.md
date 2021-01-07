@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications & Talks
+title: "Publications & Talks"
 ---
 
 ## 2020
