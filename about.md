@@ -39,6 +39,8 @@ permalink: /about/
  
 ### University of Delaware
  * Sunita Chandrasekaran
- * Jose Monsalve Diaz
+ * Thomas Huber 
+ * Joshua Davis 
+ * Jose Monsalve Diaz (former contributor) 
 
 
