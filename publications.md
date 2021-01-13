@@ -92,6 +92,10 @@ Y. Yan, A. Wang, C. Liao, T. R. Scogland, and B. R. de Supinski.
 _Extending OpenMP metadirective semantics for runtime adaptation_.
 In International Workshop on OpenMP, auckland, sep 2019.
 
+Monsalve Diaz, Jose Manuel & Friedline, Kyle & Pophale, Swaroop & Hernandez, Oscar & Bernholdt, David & Chandrasekaran, Sunita.
+_Analysis of OpenMP 4.5 Offloading in Implementations: Correctness and Overhead_. 
+Parallel Computing. 102546. 10.1016/j.parco.2019.102546. 2019.
+
 ## 2018
 
 Michael Kruse, Hal Finkel.
@@ -105,9 +109,17 @@ In: Evolving OpenMP for Evolving Architectures -- 14th International Workshop on
 Lecture Notes in Computer Science. Volume 11128. Springer. 2018.
 [Preprint](https://arxiv.org/abs/1805.03374)
 
+Diaz J.M., Pophale S., Hernandez O., Bernholdt D.E., Chandrasekaran S.
+_OpenMP 4.5 Validation and Verification Suite for Device Offload_. 
+In: de Supinski B., Valero-Lara P., Martorell X., Mateo Bellido S., Labarta J. (eds) Evolving OpenMP for Evolving Architectures. IWOMP 2018. Lecture Notes in Computer Science, vol 11128. Springer, Cham.
+
 I. Bartolacci, M. M. Strout, B. R. de Supinski, T. R. W. Scogland, E. C. Davis, and C. Olschanowsky.
 _Extending OpenMP to facilitate loop optimization_.
 In International Workshop on OpenMP, 2018.
+
+Jose Monsalve Diaz, Swaroop Pophale, Kyle Friedline, Oscar Hernandez, David E. Bernholdt, And Sunita Chandrasekaran.
+_Evaluating Support for Openmp Offload Features_. 
+In Proceedings of the 47th International Conference on Parallel Processing Companion (ICPP '18). ACM, New York, NY, USA, Article 31, 10 Pages. DOI: https://doi.org/10.1145/3229710.3229717
 
 ## 2017
 
