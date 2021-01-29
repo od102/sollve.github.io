@@ -24,6 +24,8 @@ permalink: /about/
 
 ### Brookhaven National Laboratory (BNL)
  * Vivek Kale
+ * Abid Malik
+ * Dossay Oryspayev
 
 ### Lawrence Livermore National Laboratory (LLNL)
  * Thomas Scogland
